@@ -1,0 +1,6 @@
+{
+  "name": "Read-write-through-servers",
+  "tagline": "Reading and writing file content (multiple clients involved) through servers using Java RMI (Remote Method Invocation)",
+  "body": "### Read / Write through Servers using JAVA RMI\r\n\r\n### Problem Statement\r\n\r\n### Code Structure\r\n\r\n\r\n### Authors and Contributors\r\nCode written and maintained by @rajesh-iiith\r\n\r\n### Support or Contact\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
